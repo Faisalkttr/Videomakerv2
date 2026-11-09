@@ -1,0 +1,9 @@
+streamlit
+moviepy==1.0.3
+imageio<3
+imageio-ffmpeg
+edge-tts
+pillow
+numpy<2
+requests
+huggingface_hub
